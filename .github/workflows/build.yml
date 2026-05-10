@@ -53,5 +53,5 @@ jobs:
           files: |
             dist/ncea-cli.exe
             dist/installer/ncea-cli-setup-win-x64.exe
-          generate_release_notes: false
+          generate_release_notes: true
           fail_on_unmatched_files: true
