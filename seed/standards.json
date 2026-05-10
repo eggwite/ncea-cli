@@ -1,0 +1,2562 @@
+{
+  "meta": {
+    "generated": "2026-03-30T05:28:39.829Z",
+    "source": "NZQA achievement standards search",
+    "totalRequests": 240,
+    "total": 319
+  },
+  "standards": {
+    "90814": {
+      "standardId": "90814",
+      "title": "Demonstrate understanding of aspects of sustainability in different contexts",
+      "subject": "Education for Sustainability",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "90831": {
+      "standardId": "90831",
+      "title": "Analyse the impact that policies have on a sustainable future",
+      "subject": "Education for Sustainability",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "90843": {
+      "standardId": "90843",
+      "title": "Demonstrate understanding of the internal operations of a large business",
+      "subject": "Business Studies",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "90844": {
+      "standardId": "90844",
+      "title": "Demonstrate understanding of how a large business responds to external factors",
+      "subject": "Business Studies",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "90845": {
+      "standardId": "90845",
+      "title": "Apply business knowledge to a critical problem(s) in a given large business context",
+      "subject": "Business Studies",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91098": {
+      "standardId": "91098",
+      "title": "Analyse specified aspect(s) of studied written text(s), supported by evidence",
+      "subject": "English",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91099": {
+      "standardId": "91099",
+      "title": "Analyse specified aspect(s) of studied visual or oral text(s), supported by evidence",
+      "subject": "English",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91100": {
+      "standardId": "91100",
+      "title": "Analyse significant aspects of unfamiliar written text(s) through close reading, supported by evidence",
+      "subject": "English",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91108": {
+      "standardId": "91108",
+      "title": "Demonstrate understanding of a variety of spoken Chinese texts on familiar matters",
+      "subject": "Chinese (Mandarin)",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91111": {
+      "standardId": "91111",
+      "title": "Demonstrate understanding of a variety of written and/or visual Chinese text(s) on familiar matters",
+      "subject": "Chinese (Mandarin)",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91113": {
+      "standardId": "91113",
+      "title": "Demonstrate understanding of a variety of spoken Cook Islands Māori texts on familiar matters",
+      "subject": "Cook Islands Māori",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91116": {
+      "standardId": "91116",
+      "title": "Demonstrate understanding of a variety of written and/or visual Cook Islands Māori text(s) on familiar matters",
+      "subject": "Cook Islands Māori",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91118": {
+      "standardId": "91118",
+      "title": "Demonstrate understanding of a variety of spoken French texts on familiar matters",
+      "subject": "French",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91121": {
+      "standardId": "91121",
+      "title": "Demonstrate understanding of a variety of written and/or visual French text(s) on familiar matters",
+      "subject": "French",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91123": {
+      "standardId": "91123",
+      "title": "Demonstrate understanding of a variety of spoken German texts on familiar matters",
+      "subject": "German",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91126": {
+      "standardId": "91126",
+      "title": "Demonstrate understanding of a variety of written and/or visual German text(s) on familiar matters",
+      "subject": "German",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91133": {
+      "standardId": "91133",
+      "title": "Demonstrate understanding of a variety of spoken Japanese texts on familiar matters",
+      "subject": "Japanese",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91136": {
+      "standardId": "91136",
+      "title": "Demonstrate understanding of a variety of written and/or visual Japanese text(s) on familiar matters",
+      "subject": "Japanese",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91138": {
+      "standardId": "91138",
+      "title": "Demonstrate understanding of a variety of spoken Korean texts on familiar matters",
+      "subject": "Korean",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91141": {
+      "standardId": "91141",
+      "title": "Demonstrate understanding of a variety of written and/or visual Korean text(s) on familiar matters",
+      "subject": "Korean",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91143": {
+      "standardId": "91143",
+      "title": "Demonstrate understanding of a variety of spoken Samoan texts on familiar matters",
+      "subject": "Samoan",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91146": {
+      "standardId": "91146",
+      "title": "Demonstrate understanding of a variety of written and/or visual Samoan text(s) on familiar matters",
+      "subject": "Samoan",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91148": {
+      "standardId": "91148",
+      "title": "Demonstrate understanding of a variety of spoken Spanish texts on familiar matters",
+      "subject": "Spanish",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91151": {
+      "standardId": "91151",
+      "title": "Demonstrate understanding of a variety of written and/or visual Spanish text(s) on familiar matters",
+      "subject": "Spanish",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91156": {
+      "standardId": "91156",
+      "title": "Demonstrate understanding of life processes at the cellular level",
+      "subject": "Biology",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91157": {
+      "standardId": "91157",
+      "title": "Demonstrate understanding of genetic variation and change",
+      "subject": "Biology",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91159": {
+      "standardId": "91159",
+      "title": "Demonstrate understanding of gene expression",
+      "subject": "Biology",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91164": {
+      "standardId": "91164",
+      "title": "Demonstrate understanding of bonding, structure, properties and energy changes",
+      "subject": "Chemistry",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91165": {
+      "standardId": "91165",
+      "title": "Demonstrate understanding of the properties of selected organic compounds",
+      "subject": "Chemistry",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91166": {
+      "standardId": "91166",
+      "title": "Demonstrate understanding of chemical reactivity",
+      "subject": "Chemistry",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91170": {
+      "standardId": "91170",
+      "title": "Demonstrate understanding of waves",
+      "subject": "Physics",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91171": {
+      "standardId": "91171",
+      "title": "Demonstrate understanding of mechanics",
+      "subject": "Physics",
+      "level": 2,
+      "credits": 6,
+      "active": true
+    },
+    "91173": {
+      "standardId": "91173",
+      "title": "Demonstrate understanding of electricity and electromagnetism",
+      "subject": "Physics",
+      "level": 2,
+      "credits": 6,
+      "active": true
+    },
+    "91174": {
+      "standardId": "91174",
+      "title": "Demonstrate understanding of accounting concepts for an entity that operates accounting subsystems",
+      "subject": "Accounting",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91176": {
+      "standardId": "91176",
+      "title": "Prepare financial information for an entity that operates accounting subsystems",
+      "subject": "Accounting",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91177": {
+      "standardId": "91177",
+      "title": "Interpret accounting information for entities that operate accounting subsystems",
+      "subject": "Accounting",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91180": {
+      "standardId": "91180",
+      "title": "Examine the effects of formal elements of art works",
+      "subject": "Art History",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91181": {
+      "standardId": "91181",
+      "title": "Examine the meanings conveyed by art works",
+      "subject": "Art History",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91182": {
+      "standardId": "91182",
+      "title": "Examine the influence of context(s) on art works",
+      "subject": "Art History",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91191": {
+      "standardId": "91191",
+      "title": "Demonstrate understanding of the causes of extreme Earth events in New Zealand",
+      "subject": "Earth and Space Science",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91192": {
+      "standardId": "91192",
+      "title": "Demonstrate understanding of stars and planetary systems",
+      "subject": "Earth and Space Science",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91193": {
+      "standardId": "91193",
+      "title": "Demonstrate understanding of physical principles related to the Earth System",
+      "subject": "Earth and Space Science",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91194": {
+      "standardId": "91194",
+      "title": "Translate adapted Latin text of medium complexity into English, demonstrating understanding",
+      "subject": "Latin",
+      "level": 2,
+      "credits": 6,
+      "active": true
+    },
+    "91195": {
+      "standardId": "91195",
+      "title": "Interpret adapted Latin text of medium complexity, demonstrating understanding",
+      "subject": "Latin",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91200": {
+      "standardId": "91200",
+      "title": "Examine ideas and values of the classical world",
+      "subject": "Classical Studies",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91201": {
+      "standardId": "91201",
+      "title": "Examine the significance of features of work(s) of art in the classical world",
+      "subject": "Classical Studies",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91203": {
+      "standardId": "91203",
+      "title": "Examine socio-political life in the classical world",
+      "subject": "Classical Studies",
+      "level": 2,
+      "credits": 6,
+      "active": true
+    },
+    "91211": {
+      "standardId": "91211",
+      "title": "Provide an interpretation of a dance performance with supporting evidence",
+      "subject": "Dance",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91212": {
+      "standardId": "91212",
+      "title": "Demonstrate understanding of a dance genre or style in context",
+      "subject": "Dance",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91215": {
+      "standardId": "91215",
+      "title": "Discuss a drama or theatre form or period with reference to a text",
+      "subject": "Drama",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91219": {
+      "standardId": "91219",
+      "title": "Discuss drama elements, techniques, conventions and technologies within live performance",
+      "subject": "Drama",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91222": {
+      "standardId": "91222",
+      "title": "Analyse inflation using economic concepts and models",
+      "subject": "Economics",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91223": {
+      "standardId": "91223",
+      "title": "Analyse international trade using economic concepts and models",
+      "subject": "Economics",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91224": {
+      "standardId": "91224",
+      "title": "Analyse economic growth using economic concepts and models",
+      "subject": "Economics",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91231": {
+      "standardId": "91231",
+      "title": "Examine sources of an historical event that is of significance to New Zealanders",
+      "subject": "History",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91233": {
+      "standardId": "91233",
+      "title": "Examine causes and consequences of a significant historical event",
+      "subject": "History",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91234": {
+      "standardId": "91234",
+      "title": "Examine how a significant historical event affected New Zealand society",
+      "subject": "History",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91235": {
+      "standardId": "91235",
+      "title": "Analyse an adolescent health issue",
+      "subject": "Health",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91238": {
+      "standardId": "91238",
+      "title": "Analyse an interpersonal issue(s) that places personal safety at risk",
+      "subject": "Health",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91240": {
+      "standardId": "91240",
+      "title": "Demonstrate geographic understanding of a large natural environment",
+      "subject": "Geography",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91242": {
+      "standardId": "91242",
+      "title": "Demonstrate geographic understanding of differences in development",
+      "subject": "Geography",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91243": {
+      "standardId": "91243",
+      "title": "Apply geography concepts and skills to demonstrate understanding of a given environment",
+      "subject": "Geography",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91248": {
+      "standardId": "91248",
+      "title": "Demonstrate understanding of the relationship between a media product and its audience",
+      "subject": "Media Studies",
+      "level": 2,
+      "credits": 3,
+      "active": true
+    },
+    "91251": {
+      "standardId": "91251",
+      "title": "Demonstrate understanding of an aspect of a media genre",
+      "subject": "Media Studies",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91261": {
+      "standardId": "91261",
+      "title": "Apply algebraic methods in solving problems",
+      "subject": "Mathematics and Statistics",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91262": {
+      "standardId": "91262",
+      "title": "Apply calculus methods in solving problems",
+      "subject": "Mathematics and Statistics",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91267": {
+      "standardId": "91267",
+      "title": "Apply probability methods in solving problems",
+      "subject": "Mathematics and Statistics",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91275": {
+      "standardId": "91275",
+      "title": "Demonstrate aural understanding through written representation",
+      "subject": "Music",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91276": {
+      "standardId": "91276",
+      "title": "Demonstrate knowledge of conventions in a range of music scores",
+      "subject": "Music",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91277": {
+      "standardId": "91277",
+      "title": "Demonstrate understanding of two substantial and contrasting music works",
+      "subject": "Music",
+      "level": 2,
+      "credits": 6,
+      "active": true
+    },
+    "91279": {
+      "standardId": "91279",
+      "title": "Demonstrate understanding of conflict(s) arising from different cultural beliefs and ideas",
+      "subject": "Social Studies",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91281": {
+      "standardId": "91281",
+      "title": "Describe how cultural conflict(s) can be addressed",
+      "subject": "Social Studies",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91286": {
+      "standardId": "91286",
+      "title": "Pānui kia mōhio ki te reo o te ao torotoro",
+      "subject": "Te Reo Māori",
+      "level": 2,
+      "credits": 6,
+      "active": true
+    },
+    "91287": {
+      "standardId": "91287",
+      "title": "Tuhi i te reo o te ao torotoro",
+      "subject": "Te Reo Māori",
+      "level": 2,
+      "credits": 6,
+      "active": true
+    },
+    "91290": {
+      "standardId": "91290",
+      "title": "Demonstrate understanding of techniques used to modify physical factors of the environment for NZ plant production",
+      "subject": "Agricultural & Horticultural Science (AgHort)",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91294": {
+      "standardId": "91294",
+      "title": "Demonstrate understanding of how NZ commercial management practices influence livestock growth and development",
+      "subject": "Agricultural & Horticultural Science (AgHort)",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91297": {
+      "standardId": "91297",
+      "title": "Demonstrate understanding of land use for primary production in New Zealand",
+      "subject": "Agricultural & Horticultural Science (AgHort)",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91300": {
+      "standardId": "91300",
+      "title": "Analyse the relationship between well-being, food choices and determinants of health",
+      "subject": "Home Economics",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91304": {
+      "standardId": "91304",
+      "title": "Evaluate health promoting strategies designed to address a nutritional need",
+      "subject": "Home Economics",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91320": {
+      "standardId": "91320",
+      "title": "Produce a systematic body of work that shows understanding of art making conventions and ideas within design",
+      "subject": "Visual Arts",
+      "level": 2,
+      "credits": 12,
+      "active": true
+    },
+    "91321": {
+      "standardId": "91321",
+      "title": "Produce a systematic body of work that shows understanding of art making conventions and ideas within painting",
+      "subject": "Visual Arts",
+      "level": 2,
+      "credits": 12,
+      "active": true
+    },
+    "91322": {
+      "standardId": "91322",
+      "title": "Produce a systematic body of work that shows understanding of art making conventions and ideas within photography",
+      "subject": "Visual Arts",
+      "level": 2,
+      "credits": 12,
+      "active": true
+    },
+    "91323": {
+      "standardId": "91323",
+      "title": "Produce a systematic body of work that shows understanding of art making conventions and ideas within printmaking",
+      "subject": "Visual Arts",
+      "level": 2,
+      "credits": 12,
+      "active": true
+    },
+    "91324": {
+      "standardId": "91324",
+      "title": "Produce a systematic body of work that shows understanding of art making conventions and ideas within sculpture",
+      "subject": "Visual Arts",
+      "level": 2,
+      "credits": 12,
+      "active": true
+    },
+    "91337": {
+      "standardId": "91337",
+      "title": "Use visual communication techniques to generate design ideas",
+      "subject": "Design and Visual Communication (DVC)",
+      "level": 2,
+      "credits": 3,
+      "active": true
+    },
+    "91338": {
+      "standardId": "91338",
+      "title": "Produce working drawings to communicate technical details of a design",
+      "subject": "Design and Visual Communication (DVC)",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91339": {
+      "standardId": "91339",
+      "title": "Produce instrumental perspective projection drawings to communicate design ideas",
+      "subject": "Design and Visual Communication (DVC)",
+      "level": 2,
+      "credits": 3,
+      "active": true
+    },
+    "91358": {
+      "standardId": "91358",
+      "title": "Demonstrate understanding of how technological modelling supports risk management",
+      "subject": "Technology",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91359": {
+      "standardId": "91359",
+      "title": "Demonstrate understanding of the role of material evaluation in product development",
+      "subject": "Technology",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91360": {
+      "standardId": "91360",
+      "title": "Demonstrate understanding of redundancy and reliability in technological systems",
+      "subject": "Technology",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91363": {
+      "standardId": "91363",
+      "title": "Demonstrate understanding of sustainability in design",
+      "subject": "Technology",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91379": {
+      "standardId": "91379",
+      "title": "Demonstrate understanding of how internal factors interact within a business that operates in a global context",
+      "subject": "Business Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91380": {
+      "standardId": "91380",
+      "title": "Demonstrate understanding of strategic response to external factors by a business that operates in a global context",
+      "subject": "Business Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91381": {
+      "standardId": "91381",
+      "title": "Apply business knowledge to address a complex problem(s) in a given global business context",
+      "subject": "Business Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91390": {
+      "standardId": "91390",
+      "title": "Demonstrate understanding of thermochemical principles and the properties of particles and substances",
+      "subject": "Chemistry",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91391": {
+      "standardId": "91391",
+      "title": "Demonstrate understanding of the properties of organic compounds",
+      "subject": "Chemistry",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91392": {
+      "standardId": "91392",
+      "title": "Demonstrate understanding of equilibrium principles in aqueous systems",
+      "subject": "Chemistry",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91394": {
+      "standardId": "91394",
+      "title": "Analyse ideas and values of the classical world",
+      "subject": "Classical Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91395": {
+      "standardId": "91395",
+      "title": "Analyse the significance of a work(s) of art in the classical world",
+      "subject": "Classical Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91396": {
+      "standardId": "91396",
+      "title": "Analyse the impact of a significant historical figure on the classical world",
+      "subject": "Classical Studies",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91399": {
+      "standardId": "91399",
+      "title": "Demonstrate understanding of the efficiency of market equilibrium",
+      "subject": "Economics",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91400": {
+      "standardId": "91400",
+      "title": "Demonstrate understanding of the efficiency of different market structures using marginal analysis",
+      "subject": "Economics",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91403": {
+      "standardId": "91403",
+      "title": "Demonstrate understanding of macro-economic influences on the New Zealand economy",
+      "subject": "Economics",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91404": {
+      "standardId": "91404",
+      "title": "Demonstrate understanding of accounting concepts for a New Zealand reporting entity",
+      "subject": "Accounting",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91406": {
+      "standardId": "91406",
+      "title": "Demonstrate understanding of company financial statement preparation",
+      "subject": "Accounting",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91408": {
+      "standardId": "91408",
+      "title": "Demonstrate understanding of management accounting to inform decision-making",
+      "subject": "Accounting",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91413": {
+      "standardId": "91413",
+      "title": "Demonstrate understanding of processes in the ocean system",
+      "subject": "Earth and Space Science",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91414": {
+      "standardId": "91414",
+      "title": "Demonstrate understanding of processes in the atmosphere system",
+      "subject": "Earth and Space Science",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91420": {
+      "standardId": "91420",
+      "title": "Integrate aural skills into written representation",
+      "subject": "Music",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91421": {
+      "standardId": "91421",
+      "title": "Demonstrate understanding of harmonic and tonal conventions in a range of music scores",
+      "subject": "Music",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91423": {
+      "standardId": "91423",
+      "title": "Examine the influence of context on a substantial music work",
+      "subject": "Music",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91426": {
+      "standardId": "91426",
+      "title": "Demonstrate understanding of how interacting natural processes shape a New Zealand geographic environment",
+      "subject": "Geography",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91427": {
+      "standardId": "91427",
+      "title": "Demonstrate understanding of how a cultural process shapes geographic environment(s)",
+      "subject": "Geography",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91429": {
+      "standardId": "91429",
+      "title": "Demonstrate understanding of a given environment(s) through selection and application of geographic concepts and skills",
+      "subject": "Geography",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91436": {
+      "standardId": "91436",
+      "title": "Analyse evidence relating to an historical event of significance to New Zealanders",
+      "subject": "History",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91438": {
+      "standardId": "91438",
+      "title": "Analyse the causes and consequences of a significant historical event",
+      "subject": "History",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91439": {
+      "standardId": "91439",
+      "title": "Analyse a significant historical trend and the force(s) that influenced it",
+      "subject": "History",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91455": {
+      "standardId": "91455",
+      "title": "Produce a systematic body of work that integrates conventions and regenerates ideas within design practice",
+      "subject": "Visual Arts",
+      "level": 3,
+      "credits": 14,
+      "active": true
+    },
+    "91456": {
+      "standardId": "91456",
+      "title": "Produce a systematic body of work that integrates conventions and regenerates ideas within painting practice",
+      "subject": "Visual Arts",
+      "level": 3,
+      "credits": 14,
+      "active": true
+    },
+    "91457": {
+      "standardId": "91457",
+      "title": "Produce a systematic body of work that integrates conventions and regenerates ideas within photography practice",
+      "subject": "Visual Arts",
+      "level": 3,
+      "credits": 14,
+      "active": true
+    },
+    "91458": {
+      "standardId": "91458",
+      "title": "Produce a systematic body of work that integrates conventions and regenerates ideas within printmaking practice",
+      "subject": "Visual Arts",
+      "level": 3,
+      "credits": 14,
+      "active": true
+    },
+    "91459": {
+      "standardId": "91459",
+      "title": "Produce a systematic body of work that integrates conventions and regenerates ideas within sculpture practice",
+      "subject": "Visual Arts",
+      "level": 3,
+      "credits": 14,
+      "active": true
+    },
+    "91462": {
+      "standardId": "91462",
+      "title": "Analyse an international health issue",
+      "subject": "Health",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91465": {
+      "standardId": "91465",
+      "title": "Evaluate models for health promotion",
+      "subject": "Health",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91470": {
+      "standardId": "91470",
+      "title": "Evaluate conflicting nutritional information relevant to well-being in New Zealand society",
+      "subject": "Home Economics",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91471": {
+      "standardId": "91471",
+      "title": "Analyse the influences of food advertising on well-being",
+      "subject": "Home Economics",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91472": {
+      "standardId": "91472",
+      "title": "Respond critically to specified aspect(s) of studied written text(s), supported by evidence",
+      "subject": "English",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91473": {
+      "standardId": "91473",
+      "title": "Respond critically to specified aspect(s) of studied visual or oral text(s), supported by evidence",
+      "subject": "English",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91474": {
+      "standardId": "91474",
+      "title": "Respond critically to significant aspects of unfamiliar written texts through close reading, supported by evidence",
+      "subject": "English",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91482": {
+      "standardId": "91482",
+      "title": "Demonstrate understanding of style in art works",
+      "subject": "Art History",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91483": {
+      "standardId": "91483",
+      "title": "Examine how meanings are communicated through art works",
+      "subject": "Art History",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91484": {
+      "standardId": "91484",
+      "title": "Examine the relationship(s) between art and context",
+      "subject": "Art History",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91490": {
+      "standardId": "91490",
+      "title": "Demonstrate understanding of an aspect of a media industry",
+      "subject": "Media Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91493": {
+      "standardId": "91493",
+      "title": "Demonstrate understanding of a relationship between a media genre and society",
+      "subject": "Media Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91506": {
+      "standardId": "91506",
+      "title": "Translate authentic Latin text into English demonstrating understanding",
+      "subject": "Latin",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91507": {
+      "standardId": "91507",
+      "title": "Analyse authentic Latin text demonstrating understanding",
+      "subject": "Latin",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91514": {
+      "standardId": "91514",
+      "title": "Interpret a text from a prescribed playwright to demonstrate knowledge of a theatre form or period",
+      "subject": "Drama",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91518": {
+      "standardId": "91518",
+      "title": "Demonstrate understanding of live drama performance",
+      "subject": "Drama",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91523": {
+      "standardId": "91523",
+      "title": "Demonstrate understanding of wave systems",
+      "subject": "Physics",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91524": {
+      "standardId": "91524",
+      "title": "Demonstrate understanding of mechanical systems",
+      "subject": "Physics",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91526": {
+      "standardId": "91526",
+      "title": "Demonstrate understanding of electrical systems",
+      "subject": "Physics",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91530": {
+      "standardId": "91530",
+      "title": "Demonstrate understanding of how market forces affect supply of and demand for New Zealand primary products",
+      "subject": "Agricultural & Horticultural Science (AgHort)",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91531": {
+      "standardId": "91531",
+      "title": "Demonstrate understanding of how the production process meets market requirements for a New Zealand primary product(s)",
+      "subject": "Agricultural & Horticultural Science (AgHort)",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91532": {
+      "standardId": "91532",
+      "title": "Analyse a New Zealand primary production environmental issue",
+      "subject": "Agricultural & Horticultural Science (AgHort)",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91533": {
+      "standardId": "91533",
+      "title": "Demonstrate understanding of a variety of extended spoken Chinese texts",
+      "subject": "Chinese (Mandarin)",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91536": {
+      "standardId": "91536",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual Chinese texts",
+      "subject": "Chinese (Mandarin)",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91538": {
+      "standardId": "91538",
+      "title": "Demonstrate understanding of a variety of extended spoken Cook Islands Māori texts",
+      "subject": "Cook Islands Māori",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91541": {
+      "standardId": "91541",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual Cook Islands Māori texts",
+      "subject": "Cook Islands Māori",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91543": {
+      "standardId": "91543",
+      "title": "Demonstrate understanding of a variety of extended spoken French texts",
+      "subject": "French",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91546": {
+      "standardId": "91546",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual French texts",
+      "subject": "French",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91548": {
+      "standardId": "91548",
+      "title": "Demonstrate understanding of a variety of extended spoken German texts",
+      "subject": "German",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91551": {
+      "standardId": "91551",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual German texts",
+      "subject": "German",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91553": {
+      "standardId": "91553",
+      "title": "Demonstrate understanding of a variety of extended spoken Japanese texts",
+      "subject": "Japanese",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91556": {
+      "standardId": "91556",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual Japanese texts",
+      "subject": "Japanese",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91558": {
+      "standardId": "91558",
+      "title": "Demonstrate understanding of a variety of extended spoken Korean texts",
+      "subject": "Korean",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91561": {
+      "standardId": "91561",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual Korean texts",
+      "subject": "Korean",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91563": {
+      "standardId": "91563",
+      "title": "Demonstrate understanding of a variety of extended spoken Samoan texts",
+      "subject": "Samoan",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91566": {
+      "standardId": "91566",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual Samoan texts",
+      "subject": "Samoan",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91568": {
+      "standardId": "91568",
+      "title": "Demonstrate understanding of a variety of extended spoken Spanish texts",
+      "subject": "Spanish",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91571": {
+      "standardId": "91571",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual Spanish texts",
+      "subject": "Spanish",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91577": {
+      "standardId": "91577",
+      "title": "Apply the algebra of complex numbers in solving problems",
+      "subject": "Mathematics",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91578": {
+      "standardId": "91578",
+      "title": "Apply differentiation methods in solving problems",
+      "subject": "Mathematics",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91579": {
+      "standardId": "91579",
+      "title": "Apply integration methods in solving problems",
+      "subject": "Mathematics",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91584": {
+      "standardId": "91584",
+      "title": "Evaluate statistically based reports",
+      "subject": "Mathematics",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91585": {
+      "standardId": "91585",
+      "title": "Apply probability concepts in solving problems",
+      "subject": "Mathematics",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91586": {
+      "standardId": "91586",
+      "title": "Apply probability distributions in solving problems",
+      "subject": "Mathematics",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91594": {
+      "standardId": "91594",
+      "title": "Analyse a dance performance",
+      "subject": "Dance",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91595": {
+      "standardId": "91595",
+      "title": "Demonstrate understanding of the development of dance in Aotearoa/New Zealand",
+      "subject": "Dance",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91596": {
+      "standardId": "91596",
+      "title": "Demonstrate understanding of ideological responses to an issue",
+      "subject": "Social Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91598": {
+      "standardId": "91598",
+      "title": "Demonstrate understanding of how ideologies shape society",
+      "subject": "Social Studies",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91603": {
+      "standardId": "91603",
+      "title": "Demonstrate understanding of the responses of plants and animals to their external environment",
+      "subject": "Biology",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91605": {
+      "standardId": "91605",
+      "title": "Demonstrate understanding of evolutionary processes leading to speciation",
+      "subject": "Biology",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91606": {
+      "standardId": "91606",
+      "title": "Demonstrate understanding of trends in human evolution",
+      "subject": "Biology",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91612": {
+      "standardId": "91612",
+      "title": "Demonstrate understanding of how technological modelling supports technological development and implementation",
+      "subject": "Technology",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91613": {
+      "standardId": "91613",
+      "title": "Demonstrate understanding of material development",
+      "subject": "Technology",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91614": {
+      "standardId": "91614",
+      "title": "Demonstrate understanding of operational parameters in complex and highly complex technological systems",
+      "subject": "Technology",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91617": {
+      "standardId": "91617",
+      "title": "Undertake a critique of a technological outcome's design",
+      "subject": "Technology",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91627": {
+      "standardId": "91627",
+      "title": "Initiate design ideas through exploration",
+      "subject": "Design and Visual Communication (DVC)",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91631": {
+      "standardId": "91631",
+      "title": "Produce working drawings to communicate production details for a complex design",
+      "subject": "Design and Visual Communication (DVC)",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91652": {
+      "standardId": "91652",
+      "title": "Pānui kia mōhio ki te reo Māori o te ao whānui",
+      "subject": "Te Reo Māori",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91653": {
+      "standardId": "91653",
+      "title": "Tuhi i te reo Māori o te ao whānui",
+      "subject": "Te Reo Māori",
+      "level": 3,
+      "credits": 6,
+      "active": true
+    },
+    "91674": {
+      "standardId": "91674",
+      "title": "Demonstrate understanding of a variety of spoken Lea Faka-Tonga texts on familiar matters",
+      "subject": "Lea Faka-Tonga",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91677": {
+      "standardId": "91677",
+      "title": "Demonstrate understanding of a variety of written and/or visual Lea Faka-Tonga text(s) on familiar matters",
+      "subject": "Lea Faka-Tonga",
+      "level": 2,
+      "credits": 5,
+      "active": true
+    },
+    "91679": {
+      "standardId": "91679",
+      "title": "Demonstrate understanding of a variety of extended spoken Lea Faka-Tonga texts",
+      "subject": "Lea Faka-Tonga",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91682": {
+      "standardId": "91682",
+      "title": "Demonstrate understanding of a variety of extended written and/or visual Lea Faka-Tonga texts",
+      "subject": "Lea Faka-Tonga",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91733": {
+      "standardId": "91733",
+      "title": "Demonstrate understanding of initiatives that contribute to a sustainable future",
+      "subject": "Education for Sustainability",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91736": {
+      "standardId": "91736",
+      "title": "Analyse how different worldviews, and the values and practices associated with them, impact on sustainability",
+      "subject": "Education for Sustainability",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91777": {
+      "standardId": "91777",
+      "title": "Te whakarongo ki ngā tohunga reo",
+      "subject": "Te Reo Rangatira",
+      "level": 2,
+      "credits": 3,
+      "active": true
+    },
+    "91779": {
+      "standardId": "91779",
+      "title": "Te pānui i ngā tuhinga tawhito",
+      "subject": "Te Reo Rangatira",
+      "level": 2,
+      "credits": 3,
+      "active": true
+    },
+    "91780": {
+      "standardId": "91780",
+      "title": "Te tuhi kōrero whakaae rānei, whakahē rānei",
+      "subject": "Te Reo Rangatira",
+      "level": 2,
+      "credits": 3,
+      "active": true
+    },
+    "91804": {
+      "standardId": "91804",
+      "title": "Te tātari i te ahunga o te reo",
+      "subject": "Te Reo Rangatira",
+      "level": 3,
+      "credits": 3,
+      "active": true
+    },
+    "91806": {
+      "standardId": "91806",
+      "title": "Te tūhura i ngā tuhinga raupeka",
+      "subject": "Te Reo Rangatira",
+      "level": 3,
+      "credits": 4,
+      "active": true
+    },
+    "91808": {
+      "standardId": "91808",
+      "title": "Te whakaoti tuhinga",
+      "subject": "Te Reo Rangatira",
+      "level": 3,
+      "credits": 3,
+      "active": true
+    },
+    "91876": {
+      "standardId": "91876",
+      "title": "Analyse a significant issue in psychological practice",
+      "subject": "Psychology",
+      "level": 3,
+      "credits": 3,
+      "active": true
+    },
+    "91898": {
+      "standardId": "91898",
+      "title": "Demonstrate understanding of a computer science concept",
+      "subject": "Digital Technologies",
+      "level": 2,
+      "credits": 3,
+      "active": true
+    },
+    "91899": {
+      "standardId": "91899",
+      "title": "Present a summary of developing a digital outcome",
+      "subject": "Digital Technologies",
+      "level": 2,
+      "credits": 3,
+      "active": true
+    },
+    "91908": {
+      "standardId": "91908",
+      "title": "Analyse an area of computer science",
+      "subject": "Digital Technologies",
+      "level": 3,
+      "credits": 3,
+      "active": true
+    },
+    "91909": {
+      "standardId": "91909",
+      "title": "Present a reflective analysis of developing a digital outcome",
+      "subject": "Digital Technologies",
+      "level": 3,
+      "credits": 3,
+      "active": true
+    },
+    "91914": {
+      "standardId": "91914",
+      "title": "Explore Visual Arts processes and conventions to inform own art making",
+      "subject": "Visual Arts",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91915": {
+      "standardId": "91915",
+      "title": "Create a sustained body of related artworks in response to an art making proposition",
+      "subject": "Visual Arts",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91918": {
+      "standardId": "91918",
+      "title": "Demonstrate understanding of a characteristic of religious or spiritual traditions",
+      "subject": "Religious Studies",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91919": {
+      "standardId": "91919",
+      "title": "Demonstrate understanding of perspectives of different religious or spiritual communities on an issue",
+      "subject": "Religious Studies",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91922": {
+      "standardId": "91922",
+      "title": "Describe features of science that have contributed to the development of a science idea in a local context",
+      "subject": "Science",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91923": {
+      "standardId": "91923",
+      "title": "Demonstrate understanding of science-related claims in communicated information",
+      "subject": "Science",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91925": {
+      "standardId": "91925",
+      "title": "Demonstrate understanding of specific aspects of studied text",
+      "subject": "English",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91927": {
+      "standardId": "91927",
+      "title": "Demonstrate understanding of significant aspects of unfamiliar texts",
+      "subject": "English",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91930": {
+      "standardId": "91930",
+      "title": "Demonstrate understanding of how soil properties are managed in a primary production system",
+      "subject": "Agricultural & Horticultural Science (AgHort)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91931": {
+      "standardId": "91931",
+      "title": "Demonstrate understanding of environmental sustainability in primary production management practices",
+      "subject": "Agricultural & Horticultural Science (AgHort)",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "91934": {
+      "standardId": "91934",
+      "title": "Demonstrate understanding of how natural processes shape an environment",
+      "subject": "Geography",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91935": {
+      "standardId": "91935",
+      "title": "Demonstrate understanding of decision-making in response to a geographic challenge in the wider Pacific region",
+      "subject": "Geography",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91938": {
+      "standardId": "91938",
+      "title": "Demonstrate understanding of the relationship between cultural context and key features of a dance genre or style",
+      "subject": "Dance",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "91939": {
+      "standardId": "91939",
+      "title": "Demonstrate understanding of the elements of dance in a dance sequence",
+      "subject": "Dance",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91942": {
+      "standardId": "91942",
+      "title": "Perform a scripted role for an audience using drama techniques",
+      "subject": "Drama",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91943": {
+      "standardId": "91943",
+      "title": "Respond to a drama performance",
+      "subject": "Drama",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91946": {
+      "standardId": "91946",
+      "title": "Interpret and apply mathematical and statistical information in context",
+      "subject": "Mathematics and Statistics",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91947": {
+      "standardId": "91947",
+      "title": "Demonstrate mathematical reasoning",
+      "subject": "Mathematics and Statistics",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91950": {
+      "standardId": "91950",
+      "title": "Demonstrate understanding of music in relation to contexts",
+      "subject": "Music",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91951": {
+      "standardId": "91951",
+      "title": "Shape music ideas to create an original composition",
+      "subject": "Music",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91954": {
+      "standardId": "91954",
+      "title": "Demonstrate understanding of written Chinese related to everyday contexts",
+      "subject": "Chinese (Mandarin)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91955": {
+      "standardId": "91955",
+      "title": "Demonstrate understanding of spoken Chinese (Mandarin) related to everyday contexts",
+      "subject": "Chinese (Mandarin)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91958": {
+      "standardId": "91958",
+      "title": "Demonstrate understanding of written Japanese related to everyday contexts",
+      "subject": "Japanese",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91959": {
+      "standardId": "91959",
+      "title": "Demonstrate understanding of spoken Japanese related to everyday contexts",
+      "subject": "Japanese",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91962": {
+      "standardId": "91962",
+      "title": "Demonstrate understanding of written Korean related to everyday contexts",
+      "subject": "Korean",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91963": {
+      "standardId": "91963",
+      "title": "Demonstrate understanding of spoken Korean related to everyday contexts",
+      "subject": "Korean",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91966": {
+      "standardId": "91966",
+      "title": "Demonstrate understanding of written French related to everyday contexts",
+      "subject": "French",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91967": {
+      "standardId": "91967",
+      "title": "Demonstrate understanding of spoken French related to everyday contexts",
+      "subject": "French",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91970": {
+      "standardId": "91970",
+      "title": "Demonstrate understanding of written German related to everyday contexts",
+      "subject": "German",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91971": {
+      "standardId": "91971",
+      "title": "Demonstrate understanding of spoken German related to everyday contexts",
+      "subject": "German",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91974": {
+      "standardId": "91974",
+      "title": "Demonstrate understanding of written Spanish related to everyday contexts",
+      "subject": "Spanish",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91975": {
+      "standardId": "91975",
+      "title": "Demonstrate understanding of spoken Spanish related to everyday contexts",
+      "subject": "Spanish",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "91978": {
+      "standardId": "91978",
+      "title": "Demonstrate understanding of categories within Te Ao Haka",
+      "subject": "Te Ao Haka",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "91979": {
+      "standardId": "91979",
+      "title": "Demonstrate understanding of elements within a Te Ao Haka performance",
+      "subject": "Te Ao Haka",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "91982": {
+      "standardId": "91982",
+      "title": "Compare a Te Ao Haka performance and another performance",
+      "subject": "Te Ao Haka",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91983": {
+      "standardId": "91983",
+      "title": "Respond to a Te Ao Haka performance",
+      "subject": "Te Ao Haka",
+      "level": 2,
+      "credits": 4,
+      "active": true
+    },
+    "91986": {
+      "standardId": "91986",
+      "title": "Perform two Te Ao Haka disciplines",
+      "subject": "Te Ao Haka",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "91987": {
+      "standardId": "91987",
+      "title": "Demonstrate understanding of a key role within Te Ao Haka",
+      "subject": "Te Ao Haka",
+      "level": 3,
+      "credits": 5,
+      "active": true
+    },
+    "92002": {
+      "standardId": "92002",
+      "title": "Develop product or spatial design ideas informed by the consideration of people",
+      "subject": "Design and Visual Communication (DVC)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92003": {
+      "standardId": "92003",
+      "title": "Use instrumental drawing techniques to communicate own product or spatial design outcome",
+      "subject": "Design and Visual Communication (DVC)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92006": {
+      "standardId": "92006",
+      "title": "Demonstrate understanding of usability in human-computer interfaces",
+      "subject": "Digital Technologies",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92007": {
+      "standardId": "92007",
+      "title": "Design a digital technologies outcome",
+      "subject": "Digital Technologies",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92010": {
+      "standardId": "92010",
+      "title": "Demonstrate understanding of factors that influence hauora",
+      "subject": "Health Studies",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92011": {
+      "standardId": "92011",
+      "title": "Demonstrate understanding of strategies that enhance hauora",
+      "subject": "Health Studies",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92014": {
+      "standardId": "92014",
+      "title": "Demonstrate understanding of sustainable practices in the development of a Materials and Processing Technology design",
+      "subject": "Materials and Processing Technology (MPT)",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92015": {
+      "standardId": "92015",
+      "title": "Demonstrate understanding of techniques selected for a feasible Materials and Processing Technology outcome",
+      "subject": "Materials and Processing Technology (MPT)",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92018": {
+      "standardId": "92018",
+      "title": "Demonstrate understanding of the influence of personal movement experiences on hauora",
+      "subject": "Physical Education",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92019": {
+      "standardId": "92019",
+      "title": "Demonstrate understanding of influences on movement in Aotearoa New Zealand or the Pacific",
+      "subject": "Physical Education",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92022": {
+      "standardId": "92022",
+      "title": "Demonstrate understanding of genetic variation in relation to an identified characteristic",
+      "subject": "Chemistry and Biology (ChemBio)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92023": {
+      "standardId": "92023",
+      "title": "Demonstrate understanding of how the physical properties of materials inform their use",
+      "subject": "Chemistry and Biology (ChemBio)",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92026": {
+      "standardId": "92026",
+      "title": "Demonstrate understanding of historical concepts in contexts of significance to Aotearoa New Zealand",
+      "subject": "History",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92027": {
+      "standardId": "92027",
+      "title": "Demonstrate understanding of perspectives on a historical context",
+      "subject": "History",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92030": {
+      "standardId": "92030",
+      "title": "Demonstrate understanding of how entities with interdependent financial relationships are affected by an event",
+      "subject": "Commerce",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92031": {
+      "standardId": "92031",
+      "title": "Demonstrate understanding of the financial viability of an organisation",
+      "subject": "Commerce",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92034": {
+      "standardId": "92034",
+      "title": "Demonstrate understanding of written Gagana Sāmoa related to everyday contexts",
+      "subject": "Gagana Sāmoa",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92035": {
+      "standardId": "92035",
+      "title": "Demonstrate understanding of spoken Gagana Sāmoa related to everyday contexts",
+      "subject": "Gagana Sāmoa",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92038": {
+      "standardId": "92038",
+      "title": "Show understanding of written Lea Faka-Tonga related to everyday contexts",
+      "subject": "Lea Faka-Tonga",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92039": {
+      "standardId": "92039",
+      "title": "Demonstrate understanding of spoken Lea Faka-Tonga related to everyday contexts",
+      "subject": "Lea Faka-Tonga",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92042": {
+      "standardId": "92042",
+      "title": "Demonstrate understanding of written Te Reo Māori Kūki 'Āirani related to everyday contexts",
+      "subject": "Te Reo Māori Kūki 'Āirani",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92043": {
+      "standardId": "92043",
+      "title": "Demonstrate understanding of spoken Te Reo Māori Kūki 'Āirani related to everyday contexts",
+      "subject": "Te Reo Māori Kūki 'Āirani",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92046": {
+      "standardId": "92046",
+      "title": "Demonstrate understanding of the effect on the Earth of interactions between the Sun and the Earth-Moon system",
+      "subject": "Physics, Earth and Space Science (PESS)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92047": {
+      "standardId": "92047",
+      "title": "Demonstrate understanding of a physical system using energy concepts",
+      "subject": "Physics, Earth and Space Science (PESS)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92049": {
+      "standardId": "92049",
+      "title": "Demonstrate understanding of perspectives on a contemporary social issue",
+      "subject": "Social Studies",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92050": {
+      "standardId": "92050",
+      "title": "Demonstrate understanding of decisions made in relation to a contemporary social issue",
+      "subject": "Social Studies",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92054": {
+      "standardId": "92054",
+      "title": "Te whakamārama i te rawa hangarau",
+      "subject": "Hangarau",
+      "level": 1,
+      "credits": 6,
+      "active": true
+    },
+    "92055": {
+      "standardId": "92055",
+      "title": "Te whakaputa hanga hangarau",
+      "subject": "Hangarau",
+      "level": 1,
+      "credits": 6,
+      "active": true
+    },
+    "92058": {
+      "standardId": "92058",
+      "title": "Te tautohu i ngā āhuatanga matua o te kaitiakitanga me te hononga ki te oranga",
+      "subject": "Hauora",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92059": {
+      "standardId": "92059",
+      "title": "Te tautohu i ngā āhuatanga matua o te whanaungatanga me te hononga ki te oranga",
+      "subject": "Hauora",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92063": {
+      "standardId": "92063",
+      "title": "Te whakaatu māramatanga ki ngā huānga toi rēhia",
+      "subject": "Ngā Mahi a te Rēhia",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92064": {
+      "standardId": "92064",
+      "title": "Te whakamahi i ngā āhuatanga toi rēhia kia puta ai he mahinga toi",
+      "subject": "Ngā Mahi a te Rēhia",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92067": {
+      "standardId": "92067",
+      "title": "Te whakamahi tikanga taurangi hei whakaoti rapanga",
+      "subject": "Pangarau",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92068": {
+      "standardId": "92068",
+      "title": "Te whakamahi whakaaro āhuahanga, whakaaro ine hei whakaoti rapanga",
+      "subject": "Pangarau",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92071": {
+      "standardId": "92071",
+      "title": "Te torotoro i ngā kōrero tuku iho e pā ana ki tētahi kaupapa taiao ā-iwi",
+      "subject": "Putaiao",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92072": {
+      "standardId": "92072",
+      "title": "Te torotoro i te mātauranga e pā ana ki ngā atua ki tētahi kaupapa taiao",
+      "subject": "Putaiao",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92075": {
+      "standardId": "92075",
+      "title": "Te whakamahi i ētahi rautaki reo",
+      "subject": "Te Reo Rangatira",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92076": {
+      "standardId": "92076",
+      "title": "Te whakamārama i ngā āhuatanga motuhake o tētahi momo reo kua ākona",
+      "subject": "Te Reo Rangatira",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92080": {
+      "standardId": "92080",
+      "title": "Te whakaatu māramatanga ki ngā tikanga Māori e pā ana ki te pupuri me te tuku mātauranga",
+      "subject": "Tikanga ā-Iwi",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92081": {
+      "standardId": "92081",
+      "title": "Te whakaatu māramatanga ki ngā tirohanga kē ki tētahi take o te wā",
+      "subject": "Tikanga ā-Iwi",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92085": {
+      "standardId": "92085",
+      "title": "Te whakaatu māramatanga ki ngā huānga toi ataata",
+      "subject": "Toi Ataata",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92086": {
+      "standardId": "92086",
+      "title": "Te whakamahi i ngā āhuatanga toi ataata kia puta ai he mahinga toi",
+      "subject": "Toi Ataata",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92090": {
+      "standardId": "92090",
+      "title": "Te whakaatu māramatanga ki ngā huānga toi puoro",
+      "subject": "Toi Puoro",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92091": {
+      "standardId": "92091",
+      "title": "Te whakamahi i ngā āhuatanga toi puoro kia puta ai he mahinga toi",
+      "subject": "Toi Puoro",
+      "level": 1,
+      "credits": 4,
+      "active": true
+    },
+    "92094": {
+      "standardId": "92094",
+      "title": "Te whakaatu i te māramatanga ki te reo Māori me ōna mātāpono i tētahi horopaki e taunga ana",
+      "subject": "Te Reo Māori",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92095": {
+      "standardId": "92095",
+      "title": "Te tuhi e pā ana ki tētahi horopaki e taunga ana",
+      "subject": "Te Reo Māori",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92349": {
+      "standardId": "92349",
+      "title": "Demonstrate understanding of written Gagana Tokelau related to everyday contexts",
+      "subject": "Gagana Tokelau",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92350": {
+      "standardId": "92350",
+      "title": "Demonstrate understanding of spoken Gagana Tokelau related to everyday contexts",
+      "subject": "Gagana Tokelau",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92353": {
+      "standardId": "92353",
+      "title": "Demonstrate understanding of written Vagahau Niue related to everyday contexts",
+      "subject": "Vagahau Niue",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92354": {
+      "standardId": "92354",
+      "title": "Demonstrate understanding of spoken Vagahau Niue related to everyday contexts",
+      "subject": "Vagahau Niue",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92357": {
+      "standardId": "92357",
+      "title": "Demonstrate understanding of New Zealand Sign Language related to everyday contexts",
+      "subject": "New Zealand Sign Language (NZSL)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "92358": {
+      "standardId": "92358",
+      "title": "Respond in New Zealand Sign Language related to everyday contexts",
+      "subject": "New Zealand Sign Language (NZSL)",
+      "level": 1,
+      "credits": 5,
+      "active": true
+    },
+    "93001": {
+      "standardId": "93001",
+      "title": "New Zealand Scholarship English",
+      "subject": "English",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93002": {
+      "standardId": "93002",
+      "title": "New Zealand Scholarship Japanese",
+      "subject": "Japanese",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93004": {
+      "standardId": "93004",
+      "title": "New Zealand Scholarship French",
+      "subject": "French",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93005": {
+      "standardId": "93005",
+      "title": "New Zealand Scholarship Chinese",
+      "subject": "Chinese",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93006": {
+      "standardId": "93006",
+      "title": "New Zealand Scholarship German",
+      "subject": "German",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93007": {
+      "standardId": "93007",
+      "title": "New Zealand Scholarship Spanish",
+      "subject": "Spanish",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93010": {
+      "standardId": "93010",
+      "title": "New Zealand Scholarship Samoan",
+      "subject": "Samoan",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93101": {
+      "standardId": "93101",
+      "title": "New Zealand Scholarship Biology",
+      "subject": "Biology",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93102": {
+      "standardId": "93102",
+      "title": "New Zealand Scholarship Chemistry",
+      "subject": "Chemistry",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93103": {
+      "standardId": "93103",
+      "title": "New Zealand Scholarship Physics",
+      "subject": "Physics",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93104": {
+      "standardId": "93104",
+      "title": "New Zealand Scholarship Earth and Space Science",
+      "subject": "Earth and Space Science",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93105": {
+      "standardId": "93105",
+      "title": "New Zealand Scholarship Agricultural and Horticultural Science",
+      "subject": "Agricultural and Horticultural Science",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93201": {
+      "standardId": "93201",
+      "title": "New Zealand Scholarship Statistics",
+      "subject": "Statistics",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93202": {
+      "standardId": "93202",
+      "title": "New Zealand Scholarship Calculus",
+      "subject": "Calculus",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93203": {
+      "standardId": "93203",
+      "title": "New Zealand Scholarship Accounting",
+      "subject": "Accounting",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93301": {
+      "standardId": "93301",
+      "title": "New Zealand Scholarship Art History",
+      "subject": "Art History",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93303": {
+      "standardId": "93303",
+      "title": "New Zealand Scholarship Media Studies",
+      "subject": "Media Studies",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93304": {
+      "standardId": "93304",
+      "title": "New Zealand Scholarship Drama",
+      "subject": "Drama",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93305": {
+      "standardId": "93305",
+      "title": "New Zealand Scholarship Music",
+      "subject": "Music",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93306": {
+      "standardId": "93306",
+      "title": "New Zealand Scholarship Visual Arts",
+      "subject": "Visual Arts",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93311": {
+      "standardId": "93311",
+      "title": "New Zealand Scholarship Dance",
+      "subject": "Dance",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93401": {
+      "standardId": "93401",
+      "title": "New Zealand Scholarship Geography",
+      "subject": "Geography",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93402": {
+      "standardId": "93402",
+      "title": "New Zealand Scholarship Economics",
+      "subject": "Economics",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93403": {
+      "standardId": "93403",
+      "title": "New Zealand Scholarship History",
+      "subject": "History",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93404": {
+      "standardId": "93404",
+      "title": "New Zealand Scholarship Classical Studies",
+      "subject": "Classical Studies",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93405": {
+      "standardId": "93405",
+      "title": "New Zealand Scholarship Psychology",
+      "subject": "Psychology",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93501": {
+      "standardId": "93501",
+      "title": "New Zealand Scholarship Health and Physical Education",
+      "subject": "Health and Physical Education",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93601": {
+      "standardId": "93601",
+      "title": "New Zealand Scholarship Technology",
+      "subject": "Technology",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93602": {
+      "standardId": "93602",
+      "title": "New Zealand Scholarship Design and Visual Communication",
+      "subject": "Design and Visual Communication",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93603": {
+      "standardId": "93603",
+      "title": "New Zealand Scholarship Religious Studies",
+      "subject": "Religious Studies",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    },
+    "93604": {
+      "standardId": "93604",
+      "title": "New Zealand Scholarship Digital Technologies",
+      "subject": "Digital Technologies",
+      "level": "scholarship",
+      "credits": null,
+      "active": true
+    }
+  }
+}

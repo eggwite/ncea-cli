@@ -1,0 +1,9 @@
+{
+    "main": "dist/bundle.cjs",
+    "output": "dist/ncea-cli.exe",
+    "useCodeCache": false,
+    "assets": {
+        "standards.json": "seed/standards.json"
+    },
+    "disableExperimentalSEAWarning": true
+}
