@@ -13,7 +13,7 @@ export class DownloadService {
 			// 1. Preflight HEAD request
 			const headRes = await axios.head(paper.url, {
 				headers: {
-					"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) NCEA-CLI",
+					"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ncea-cli",
 				},
 				timeout: DOWNLOAD_HEAD_TIMEOUT_MS,
 				validateStatus: false,
@@ -75,7 +75,7 @@ export class DownloadService {
 				headers: {
 					// Some sources block obvious automation, so this keeps the request closer to a normal browser.
 					"User-Agent":
-						"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 NCEA-CLI/1.0", // Pretend to be a browser, added safe client marker for "polite scraping"
+						"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 ncea-cli/1.0", // Pretend to be a browser, added safe client marker for "polite scraping"
 				},
 			});
 

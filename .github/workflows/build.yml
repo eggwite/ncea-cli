@@ -27,6 +27,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Install Inno Setup
+        run: choco install innosetup --no-progress -y
+
       - name: Build
         run: npm run build
 
@@ -39,7 +42,7 @@ jobs:
           name: ncea-cli-windows
           path: |
             dist/ncea-cli.exe
-            dist/ncea-cli-setup-win-x64.exe
+            dist/installer/ncea-cli-setup-win-x64.exe
           if-no-files-found: error
 
       - name: Create GitHub Release
@@ -50,6 +53,6 @@ jobs:
         with:
           files: |
             dist/ncea-cli.exe
-            dist/ncea-cli-setup-win-x64.exe
+            dist/installer/ncea-cli-setup-win-x64.exe
           generate_release_notes: true
           fail_on_unmatched_files: true

@@ -1,8 +1,8 @@
-# NCEA-CLI Documentation
+# ncea-cli Documentation
 
 ## Overview
 
-NCEA-CLI is an interactive command-line tool for finding and downloading NCEA past papers.
+ncea-cli is an interactive command-line tool for finding and downloading NCEA past papers.
 
 It is optimised for manual terminal use and supports:
 

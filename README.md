@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 NCEA-CLI
+# 📄 ncea-cli
 
 **Find and download NCEA past papers from your terminal.**
 

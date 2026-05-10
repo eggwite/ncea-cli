@@ -1,7 +1,7 @@
 #define MyAppName "NCEA CLI"
 #define MyAppVersion "1.0.0"
 #define MyAppPublisher "Eggwite"
-#define MyAppURL "https://github.com/Eggwite/NCEA-CLI"
+#define MyAppURL "https://github.com/Eggwite/ncea-cli"
 
 [Setup]
 AppId={{7BCA11B7-F2C9-4C19-877E-A7E5B252DADF}
@@ -11,7 +11,7 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
-DefaultDirName={userappdata}\NCEA-CLI
+DefaultDirName={userappdata}\ncea-cli
 DisableDirPage=no
 DefaultGroupName=NCEA CLI
 DisableProgramGroupPage=yes
@@ -34,8 +34,8 @@ Name: desktopicon; Description: "Create a desktop shortcut"; GroupDescription: "
 Source: "..\dist\ncea-cli.exe"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
-Name: "{group}\NCEA CLI"; Filename: "{app}\ncea-cli.cmd"
-Name: "{autodesktop}\NCEA CLI"; Filename: "{app}\ncea-cli.cmd"; Tasks: desktopicon
+Name: "{group}\NCEA CLI"; Filename: "{app}\ncea-cli.exe"
+Name: "{autodesktop}\NCEA CLI"; Filename: "{app}\ncea-cli.exe"; Tasks: desktopicon
 
 [Code]
 

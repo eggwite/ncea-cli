@@ -1,6 +1,6 @@
 # Adding a New Adapter
 
-This guide explains the technical requirements for adding a new paper source adapter to NCEA-CLI.
+This guide explains the technical requirements for adding a new paper source adapter to ncea-cli.
 
 Adapters retrieve, map, and return paper data from an external source (HTML pages, JSON endpoints, etc.) into the exact JSON shape required by the CLI.
 
@@ -164,7 +164,7 @@ export class ExampleAdapter extends PaperSourceAdapter {
         });
         const rows = await response.json();
 
-        // Map the source-specific objects to NCEA-CLI schema expectations
+        // Map the source-specific objects to ncea-cli schema expectations
         return rows.map((row) => ({
           standardId: row.standardId, // string: "91606"
           subject: row.category || "Unknown", 

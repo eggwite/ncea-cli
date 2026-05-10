@@ -19,16 +19,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eggwite/NCEA-CLI.git"
+    "url": "git+https://github.com/Eggwite/ncea-cli.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Eggwite",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Eggwite/NCEA-CLI/issues"
+    "url": "https://github.com/Eggwite/ncea-cli/issues"
   },
-  "homepage": "https://github.com/Eggwite/NCEA-CLI#readme",
+  "homepage": "https://github.com/Eggwite/ncea-cli#readme",
   "dependencies": {
     "@clack/prompts": "^1.1.0",
     "axios": "^1.14.0",
