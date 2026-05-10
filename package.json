@@ -23,7 +23,7 @@
   },
   "keywords": [],
   "author": "Eggwite",
-  "license": "ISC",
+  "license": "MIT",
   "type": "module",
   "bugs": {
     "url": "https://github.com/Eggwite/ncea-cli/issues"

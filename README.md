@@ -44,7 +44,7 @@ To add a new source adapter, see [docs/ADDING_ADAPTER.md](docs/ADDING_ADAPTER.md
 
 ## License
 
-ISC
+MIT
 
 
 ###### ~ made with lots of love by a fellow student! 💖
